@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.52d2688d.css",
-    "main.js": "/static/js/main.566d2c96.js",
+    "main.css": "/static/css/main.a6f86899.css",
+    "main.js": "/static/js/main.746463d3.js",
     "static/media/welcome.gif": "/static/media/welcome.6b789c604b28d01b0326.gif",
     "static/media/person2.png": "/static/media/person2.13bc40c43cc570dbdb5f.png",
-    "static/media/person1.png": "/static/media/person1.ad6621c451289c6e65d6.png",
     "static/media/person3.png": "/static/media/person3.ec7fc079469894c512a5.png",
-    "static/media/Avatar.png": "/static/media/Avatar.8be8aa5176dd08f1c5f0.png",
+    "static/media/rohit-PhotoRoom.jpg": "/static/media/rohit-PhotoRoom.9e288d8c670f87b44308.jpg",
     "static/media/logo1.svg": "/static/media/logo1.1391cbbb254d08fb060b4492824d36e0.svg",
     "static/media/logo3.svg": "/static/media/logo3.a93e28e4caa1f55894adac244df5db36.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -19,11 +18,11 @@
     "static/media/logo6.svg": "/static/media/logo6.85e65d07f940ee01203cdaedc77b0cf3.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.52d2688d.css.map": "/static/css/main.52d2688d.css.map",
-    "main.566d2c96.js.map": "/static/js/main.566d2c96.js.map"
+    "main.a6f86899.css.map": "/static/css/main.a6f86899.css.map",
+    "main.746463d3.js.map": "/static/js/main.746463d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.52d2688d.css",
-    "static/js/main.566d2c96.js"
+    "static/css/main.a6f86899.css",
+    "static/js/main.746463d3.js"
   ]
 }
